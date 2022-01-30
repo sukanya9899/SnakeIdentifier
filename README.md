@@ -1,6 +1,6 @@
 # A lifesaving system to save individuals from snakebite envenoming using Custom Vision to identify the biting snake
 ## Project Demo
-https://sukanya9899.github.io
+https://nice-island-035cde910.1.azurestaticapps.net/
 ## Problem Statement
 According to WHO, Snakebite is the most deadly neglected tropical disease (NTD), being responsible for a dramatic humanitarian crisis in global health. Snakebites causes human deaths, disability and disfigurement globally every year. It affects poor and rural communities in developing countries, which host the highest venomous snake diversity and the highest burden of snakebite due to limited medical expertise and access to antivenoms. Antivenoms can be life-saving when correctly administered but this often depends on the correct identification of the biting snake.
 ## Solution
